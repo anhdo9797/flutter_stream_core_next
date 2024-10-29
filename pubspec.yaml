@@ -15,7 +15,7 @@ dependencies:
     sdk: flutter
   meta: ^1.7.0
   rxdart: ^0.27.1
-
+  intl: ^0.18.1
   stream_feed: 
     git:
       url: https://github.com/anhdo9797/flutter_stream_feed_next.git
